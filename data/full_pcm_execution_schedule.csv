@@ -1,0 +1,121 @@
+task_id,task_description,story_points,dependencies,task_status
+0,Research,4,[],TO DO
+1,Define System Functionalities,2,[],TO DO
+2,Component Requirements,2,[],TO DO
+3,Feature Level Requirements,2,"[1, 2]",TO DO
+4,Algorithm Development,8,[3],TO DO
+5,MIL Test Dev and Testing,2,[3],TO DO
+6,HIL Test Dev and Testing,5,[3],TO DO
+7,VIL Test Dev and Testing,10,[6],TO DO
+8,Research,4,[],TO DO
+9,Define System Functionalities,2,[],TO DO
+10,Component Requirements,2,[],TO DO
+11,Feature Level Requirements,2,"[9, 10]",TO DO
+12,Algorithm Development,8,[11],TO DO
+13,MIL Test Dev and Testing,2,[11],TO DO
+14,HIL Test Dev and Testing,5,[11],TO DO
+15,VIL Test Dev and Testing,10,[14],TO DO
+16,Research,4,[],TO DO
+17,Define System Functionalities,2,[],TO DO
+18,Component Requirements,2,[],TO DO
+19,Feature Level Requirements,2,"[17, 18]",TO DO
+20,Algorithm Development,8,[19],TO DO
+21,MIL Test Dev and Testing,2,[19],TO DO
+22,HIL Test Dev and Testing,5,[19],TO DO
+23,VIL Test Dev and Testing,10,[22],TO DO
+24,Research,4,[],TO DO
+25,Define System Functionalities,2,[],TO DO
+26,Component Requirements,2,[],TO DO
+27,Feature Level Requirements,2,"[25, 26]",TO DO
+28,Algorithm Development,8,[27],TO DO
+29,MIL Test Dev and Testing,2,[27],TO DO
+30,HIL Test Dev and Testing,5,[27],TO DO
+31,VIL Test Dev and Testing,10,[30],TO DO
+32,Research,4,[],TO DO
+33,Define System Functionalities,2,[],TO DO
+34,Component Requirements,2,[],TO DO
+35,Feature Level Requirements,2,"[33, 34]",TO DO
+36,Algorithm Development,8,[35],TO DO
+37,MIL Test Dev and Testing,2,[35],TO DO
+38,HIL Test Dev and Testing,5,[35],TO DO
+39,VIL Test Dev and Testing,10,[38],TO DO
+40,Research,4,[],TO DO
+41,Define System Functionalities,2,[],TO DO
+42,Component Requirements,2,[],TO DO
+43,Feature Level Requirements,2,"[41, 42]",TO DO
+44,Algorithm Development,8,[43],TO DO
+45,MIL Test Dev and Testing,2,[43],TO DO
+46,HIL Test Dev and Testing,5,[43],TO DO
+47,VIL Test Dev and Testing,10,[46],TO DO
+48,Research,4,[],TO DO
+49,Define System Functionalities,2,[],TO DO
+50,Component Requirements,2,[],TO DO
+51,Feature Level Requirements,2,"[49, 50]",TO DO
+52,Algorithm Development,8,[51],TO DO
+53,MIL Test Dev and Testing,2,[51],TO DO
+54,HIL Test Dev and Testing,5,[51],TO DO
+55,VIL Test Dev and Testing,10,[54],TO DO
+56,Research,4,[],TO DO
+57,Define System Functionalities,2,[],TO DO
+58,Component Requirements,2,[],TO DO
+59,Feature Level Requirements,2,"[57, 58]",TO DO
+60,Algorithm Development,8,[59],TO DO
+61,MIL Test Dev and Testing,2,[59],TO DO
+62,HIL Test Dev and Testing,5,[59],TO DO
+63,VIL Test Dev and Testing,10,[62],TO DO
+64,Research,4,[],TO DO
+65,Define System Functionalities,2,[],TO DO
+66,Component Requirements,2,[],TO DO
+67,Feature Level Requirements,2,"[65, 66]",TO DO
+68,Algorithm Development,8,[67],TO DO
+69,MIL Test Dev and Testing,2,[67],TO DO
+70,HIL Test Dev and Testing,5,[67],TO DO
+71,VIL Test Dev and Testing,10,[70],TO DO
+72,Research,4,[],TO DO
+73,Define System Functionalities,2,[],TO DO
+74,Component Requirements,2,[],TO DO
+75,Feature Level Requirements,2,"[73, 74]",TO DO
+76,Algorithm Development,8,[75],TO DO
+77,MIL Test Dev and Testing,2,[75],TO DO
+78,HIL Test Dev and Testing,5,[75],TO DO
+79,VIL Test Dev and Testing,10,[78],TO DO
+80,Research,4,[],TO DO
+81,Define System Functionalities,2,[],TO DO
+82,Component Requirements,2,[],TO DO
+83,Feature Level Requirements,2,"[81, 82]",TO DO
+84,Algorithm Development,8,[83],TO DO
+85,MIL Test Dev and Testing,2,[83],TO DO
+86,HIL Test Dev and Testing,5,[83],TO DO
+87,VIL Test Dev and Testing,10,[86],TO DO
+88,Research,4,[],TO DO
+89,Define System Functionalities,2,[],TO DO
+90,Component Requirements,2,[],TO DO
+91,Feature Level Requirements,2,"[89, 90]",TO DO
+92,Algorithm Development,8,[91],TO DO
+93,MIL Test Dev and Testing,2,[91],TO DO
+94,HIL Test Dev and Testing,5,[91],TO DO
+95,VIL Test Dev and Testing,10,[94],TO DO
+96,Research,4,[],TO DO
+97,Define System Functionalities,2,[],TO DO
+98,Component Requirements,2,[],TO DO
+99,Feature Level Requirements,2,"[97, 98]",TO DO
+100,Algorithm Development,8,[99],TO DO
+101,MIL Test Dev and Testing,2,[99],TO DO
+102,HIL Test Dev and Testing,5,[99],TO DO
+103,VIL Test Dev and Testing,10,[102],TO DO
+104,Research,4,[],TO DO
+105,Define System Functionalities,2,[],TO DO
+106,Component Requirements,2,[],TO DO
+107,Feature Level Requirements,2,"[105, 106]",TO DO
+108,Algorithm Development,8,[107],TO DO
+109,MIL Test Dev and Testing,2,[107],TO DO
+110,HIL Test Dev and Testing,5,[107],TO DO
+111,VIL Test Dev and Testing,10,[110],TO DO
+112,Research,4,[],TO DO
+113,Define System Functionalities,2,[],TO DO
+114,Component Requirements,2,[],TO DO
+115,Feature Level Requirements,2,"[113, 114]",TO DO
+116,Algorithm Development,8,[115],TO DO
+117,MIL Test Dev and Testing,2,[115],TO DO
+118,HIL Test Dev and Testing,5,[115],TO DO
+119,VIL Test Dev and Testing,10,[118],TO DO

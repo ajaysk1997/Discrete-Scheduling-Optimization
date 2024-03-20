@@ -1,0 +1,9 @@
+﻿task_id,task_description,story_points,dependencies,task_status
+0,Research,4,[],TO DO
+1,Define System Functionalities,2,[],TO DO
+2,Component Requirements,2,[],TO DO
+3,Feature Level Requirements,2,"[1, 2]",TO DO
+4,Algorithm Development,8,[3],TO DO
+5,MIL Test Dev and Testing,2,[3],TO DO
+6,HIL Test Dev and Testing,5,[3],TO DO
+7,VIL Test Dev and Testing,10,[6],TO DO
